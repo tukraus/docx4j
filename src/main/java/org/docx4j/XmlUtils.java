@@ -47,7 +47,7 @@ import org.dom4j.io.OutputFormat;
 import org.dom4j.io.XMLWriter;
 
 public class XmlUtils {
-	
+	//
 	private static Logger log = Logger.getLogger(XmlUtils.class);	
 		
 	/** Make a dom4j element into something JAXB can unmarshall */
